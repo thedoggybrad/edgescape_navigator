@@ -23,3 +23,6 @@ Source Code (ZIP): https://github.com/thedoggybrad/edgescape_navigator/releases/
 Portable (ZIP): https://github.com/thedoggybrad/edgescape_navigator/releases/download/1.0/Edgescape_Navigator_Portable.zip
 <br>
 Setup (EXE inside ZIP): https://github.com/thedoggybrad/edgescape_navigator/releases/download/1.0/Edgescape_Navigator_Setup.zip
+
+## License
+This software uses MIT License. View it here: https://github.com/thedoggybrad/edgescape_navigator
