@@ -1,4 +1,4 @@
-![Icon]([https://thedoggybrad.github.io/2048ontheweb/meta/2048-rounded-144.png](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Microsoft_Edge_logo_%282015%E2%80%932019%29.svg/1920px-Microsoft_Edge_logo_%282015%E2%80%932019%29.svg.png])
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Microsoft_Edge_logo_%282015%E2%80%932019%29.svg/1920px-Microsoft_Edge_logo_%282015%E2%80%932019%29.svg.png" alt="LOGO" width="64"  height="64">
 
 # Edgescape Navigator
 Edgescape Navigator is a web browser created using Visual Basic 2015, using the EdgeWebView2 runtime. It is creted by TheDoggyBrad. If you want to update this web browser, just update your EdgeWebView2 runtime.
