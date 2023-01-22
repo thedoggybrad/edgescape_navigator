@@ -18,8 +18,8 @@ Yes, weird naming but this browser is created to escape Microsoft Edge but still
 •Microsoft EdgeWebView2 installed
 
 ## Downloads
-Source Code (ZIP): 
+Source Code (ZIP): https://github.com/thedoggybrad/edgescape_navigator/releases/download/1.0/Edgescape_Navigator_Source_Code.zip
 <br>
-Portable (ZIP): 
+Portable (ZIP): https://github.com/thedoggybrad/edgescape_navigator/releases/download/1.0/Edgescape_Navigator_Portable.zip
 <br>
-Setup (EXE inside ZIP): 
+Setup (EXE inside ZIP): https://github.com/thedoggybrad/edgescape_navigator/releases/download/1.0/Edgescape_Navigator_Setup.zip
