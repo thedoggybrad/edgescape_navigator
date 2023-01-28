@@ -7,7 +7,7 @@ Edgescape Navigator is a web browser created using Visual Basic 2015, using the 
 Yes, weird naming but this browser is created to escape Microsoft Edge but still using it's engine and some UI elements. For the Navigator part, it is inspired by my other project "Website Navigator" based on CefSharp using Visual Basic.
 
 ## Minimum System Requirements
-•Windows Vista and above (64 Bit, but can be recompiled to 32 bit if you wish)
+•Windows 7 and above (64 Bit, but can be recompiled to 32 bit if you wish)
 <br>
 •2GB RAM
 <br>
