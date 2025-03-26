@@ -17,11 +17,15 @@ Edgescape Navigator is a web browser created using Visual Basic 2015, using the 
 <br>
 •Microsoft EdgeWebView2 installed
 
+## Updates
+This project is not updated regularly as it relies on the updated of EdgeWebView2 on your system. Just ensure that EdgeWebView2 is update then you're find. In case I release new releases, you can find it just in this GitHub repository.
+
 ## Latest Release (Version 2.0)
-Installer: TBD<br>
-Source Code: TBD<br>
-Portable: TBD
+Installer: [https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/setup.exe](https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/setup.exe)<br>
+Source Code: [https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/Edgescape_Navigator_Source_Code.zip](https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/Edgescape_Navigator_Source_Code.zip)<br>
+Portable: [https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/Edgescape.Navigator.Portable.zip](https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/Edgescape.Navigator.Portable.zip)
 
 ## Older Releases
-For all of the releases, please visit:<br>
-[https://github.com/thedoggybrad/edgescape_navigator/releases]()
+I have hidden the older releases from the README because I do no longer recommend them.<br>
+For all of the releases including the old ones, please visit:<br>
+[https://github.com/thedoggybrad/edgescape_navigator/releases](https://github.com/thedoggybrad/edgescape_navigator/releases)
