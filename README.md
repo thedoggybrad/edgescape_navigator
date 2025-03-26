@@ -26,7 +26,7 @@ You may download it [here](https://developer.microsoft.com/en-us/microsoft-edge/
 But if you have a Windows 11 system, chances are high that you have EdgeWebView2 already pre-installed on your system. But if you have Windows 10 and lower check it first if you have one. But the safe rule is that if you have the Chromium Edge installed, the higher the chance that EdgeWebView2 is already installed on your system.
 
 ## Updates
-This project is not updated regularly as it relies on the updated of EdgeWebView2 on your system. Just ensure that EdgeWebView2 is update then you're find. In case I release new releases, you can find it just in this GitHub repository.
+This project is not updated regularly as it relies on the updates of EdgeWebView2 on your system. Just ensure that EdgeWebView2 is update then you're fine. In case I release new releases, you can find it just in this GitHub repository.
 
 ## Latest Release (Version 2.0)
 Installer: [https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/setup.exe](https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/setup.exe)<br>
