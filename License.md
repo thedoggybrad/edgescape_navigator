@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2022-2023 TheDoggyBrad and Copyright (c) 2023-Today TheDoggyBrad Software Lab
+Copyright (c) 2022-Present TheDoggyBrad Software Lab
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
