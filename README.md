@@ -15,7 +15,7 @@ While, the 1.x release series is built on Visual Studio 2015 (Visual Basic) unde
 <br>
 •1GHZ single core processor
 <br>
-•Microsoft EdgeWebView2 installed
+•**Microsoft EdgeWebView2 installed**
 
 ## In case you do not have EdgeWebView 2 installed
 You may download it [here](https://developer.microsoft.com/en-us/microsoft-edge/webview2/consumer) and install it on your system.<br><br>
