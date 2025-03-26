@@ -18,7 +18,7 @@ While, the 1.x release series is built on Visual Studio 2015 (Visual Basic) unde
 •**Microsoft EdgeWebView2 installed** (YOU MUST HAVE THIS ON YOUR SYSTEM)
 
 ## In case you do not have EdgeWebView2 installed
-You may download it [here](https://developer.microsoft.com/en-us/microsoft-edge/webview2/consumer) and install it on your system.<br><br>
+You may download it [here](https://developer.microsoft.com/en-us/microsoft-edge/webview2/?form=MA13LH) and install it on your system.<br><br>
 But if you have a Windows 11 system, chances are high that you have EdgeWebView2 already pre-installed on your system. But if you have Windows 10 and lower check it first if you have one. But the safe rule is that if you have the Chromium Edge installed, the higher the chance that EdgeWebView2 is already installed on your system.
 
 ## Updates
