@@ -23,7 +23,11 @@ This project is not updated regularly as it relies on the updated of EdgeWebView
 ## Latest Release (Version 2.0)
 Installer: [https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/setup.exe](https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/setup.exe)<br>
 Source Code: [https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/Edgescape_Navigator_Source_Code.zip](https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/Edgescape_Navigator_Source_Code.zip)<br>
-Portable: [https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/Edgescape.Navigator.Portable.zip](https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/Edgescape.Navigator.Portable.zip)
+Portable: [https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/Edgescape.Navigator.Portable.zip](https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/Edgescape.Navigator.Portable.zip)<br>
+Alternate Installer (NOT RECOMMENDED TO NON-SAVY USERS)***: [https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/Alternate.Installer.zip](https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/Alternate.Installer.zip)
+<br>
+<br>
+***Alternate Installer is built by Visual Studio not by usual Setup builders like Inno and etc.
 
 ## Older Releases
 I have hidden the older releases from the README because I do no longer recommend them.<br>
