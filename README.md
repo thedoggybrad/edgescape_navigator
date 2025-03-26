@@ -8,6 +8,10 @@ While, the 1.x release series is built on Visual Studio 2015 (Visual Basic) unde
 [Download Now!](https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/setup.exe)
 
 
+![1](https://github.com/user-attachments/assets/ff353d18-d579-4119-a002-e2b9ee36c809)
+
+
+
 ## Minimum System Requirements
 •Windows 7 and above with 64-bit processor
 <br>
