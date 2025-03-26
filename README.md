@@ -2,11 +2,12 @@
 
 # Edgescape Navigator
 Edgescape Navigator is a web browser which is literally just a web browser. It has no bloatware, no mess and no unnecessary features. Just buttons for forward, backward, reload, homepage and about and also the addressbar.
+<br>
+Powered by EdgeWebView2
 <br><br>
 The latest version 2.0 is built on Visual Studio 2022 (Visual Basic) under .NET Framework 4.8.<br>
 While, the 1.x release series is built on Visual Studio 2015 (Visual Basic) under .NET Framework 4.5.2.
 
-Edgescape Navigator is a web browser created using Visual Basic 2015, using the EdgeWebView2 runtime. It is creted by TheDoggyBrad. If you want to update this web browser, just update your EdgeWebView2 runtime.
 
 ## Minimum System Requirements
 •Windows 7 and above with 64-bit processor
