@@ -5,7 +5,7 @@ Edgescape Navigator is a web browser which is literally just a web browser. It h
 <br><br>
 The latest version 2.0 is built on Visual Studio 2022 (Visual Basic) under .NET Framework 4.8.<br>
 While, the 1.x release series is built on Visual Studio 2015 (Visual Basic) under .NET Framework 4.5.2.<br><br>
-[Download Now!]([https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/setup.exe](https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/setup.exe))
+[Download Now!](https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/setup.exe)
 
 
 ## Minimum System Requirements
