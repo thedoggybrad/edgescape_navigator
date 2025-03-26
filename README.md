@@ -1,12 +1,11 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Microsoft_Edge_logo_%282015%E2%80%932019%29.svg/1920px-Microsoft_Edge_logo_%282015%E2%80%932019%29.svg.png" alt="LOGO" width="64"  height="64">
 
 # Edgescape Navigator
-Edgescape Navigator is a web browser which is literally just a web browser. It has no bloatware, no mess and no unnecessary features. Just buttons for forward, backward, reload, homepage and about and also the addressbar.
-<br>
-Powered by EdgeWebView2
+Edgescape Navigator is a web browser which is literally just a web browser. It has no bloatware, no mess and no unnecessary features. Just buttons for forward, backward, reload, homepage and about and also the addressbar. It is powered by EdgeWebView2 runtime.
 <br><br>
 The latest version 2.0 is built on Visual Studio 2022 (Visual Basic) under .NET Framework 4.8.<br>
-While, the 1.x release series is built on Visual Studio 2015 (Visual Basic) under .NET Framework 4.5.2.
+While, the 1.x release series is built on Visual Studio 2015 (Visual Basic) under .NET Framework 4.5.2.<br><br>
+[Download Now!](https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/setup.exe)
 
 
 ## Minimum System Requirements
@@ -26,7 +25,6 @@ Installer: [https://github.com/thedoggybrad/edgescape_navigator/releases/downloa
 Source Code: [https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/Edgescape_Navigator_Source_Code.zip](https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/Edgescape_Navigator_Source_Code.zip)<br>
 Portable: [https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/Edgescape.Navigator.Portable.zip](https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/Edgescape.Navigator.Portable.zip)<br>
 ***Alternate Installer (NOT RECOMMENDED TO NON-SAVY USERS): [https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/Alternate.Installer.zip](https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/Alternate.Installer.zip)
-<br>
 <br>
 ***Alternate Installer is built by Visual Studio not by usual Setup builders like Inno and etc.
 
