@@ -13,7 +13,7 @@ While, the 1.x release series is built on Visual Studio 2015 (Visual Basic) unde
 
 
 ## Minimum System Requirements
-•Windows 7 and above with 64-bit processor (Windows 10 is recommended)
+•Windows 7 and above with 64-bit processor (Windows 10 and above is recommended)
 <br>
 •1GB RAM (2GB will be much better)
 <br>
