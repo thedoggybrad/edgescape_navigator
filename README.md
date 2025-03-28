@@ -40,6 +40,7 @@ Installer: [https://github.com/thedoggybrad/edgescape_navigator/releases/downloa
 Source Code: [https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/Edgescape_Navigator_Source_Code.zip](https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/Edgescape_Navigator_Source_Code.zip)<br>
 Portable: [https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/Edgescape.Navigator.Portable.zip](https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/Edgescape.Navigator.Portable.zip)<br>
 7-zip Self Extracting Archive: [https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/extractor.exe](https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/extractor.exe)
+Chocolatey Package: [https://community.chocolatey.org/packages/edgescapenavigator/2.0.0](https://community.chocolatey.org/packages/edgescapenavigator/2.0.0)<br>
 <br><br>
 Alternate Installer (NOT RECOMMENDED TO NON-SAVY USERS): [https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/Alternate.Installer.zip](https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/Alternate.Installer.zip)
 <br>
