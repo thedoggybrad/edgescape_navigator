@@ -13,7 +13,7 @@ While, the 1.x release series is built on Visual Studio 2015 (Visual Basic) unde
 ## Easier Installation Method
 The software is now available on Winget. Simply run the command:
 ````
-winget install TheDoggyBradSoftwareLabs.EdgescapeNavigator
+winget install --e --id TheDoggyBradSoftwareLabs.EdgescapeNavigator
 ````
 And follow the on-screen instructions.
 
