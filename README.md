@@ -10,8 +10,8 @@ While, the 1.x release series is built on Visual Studio 2015 (Visual Basic) unde
 
 ![1](https://github.com/user-attachments/assets/ff353d18-d579-4119-a002-e2b9ee36c809)
 
-## Easier Installation Method (Coming Soon)
-The software is now available on Winget. Simply run the command:
+## Easier Installation Method
+The software is now available on Winget for installation. Simply run the command:
 ````
 winget install -e --id TheDoggyBradSoftwareLabs.EdgescapeNavigator
 ````
