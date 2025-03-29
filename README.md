@@ -18,13 +18,13 @@ winget install -e --id TheDoggyBradSoftwareLabs.EdgescapeNavigator
 And follow the on-screen instructions.
 
 ## Minimum System Requirements
-â€¢Windows 7 and above with 64-bit processor (Windows 10 and above is recommended)
+•Windows 7 and above with 64-bit processor (Windows 10 and above is recommended)
 <br>
-â€¢1GB RAM (2GB will be much better)
+•1GB RAM (2GB will be much better)
 <br>
-â€¢1GHZ single core processor
+•1GHZ single core processor
 <br>
-â€¢**Microsoft EdgeWebView2 installed** (YOU MUST HAVE THIS ON YOUR SYSTEM)
+•**Microsoft EdgeWebView2 installed** (YOU MUST HAVE THIS ON YOUR SYSTEM)
 
 ## In case you do not have EdgeWebView2 installed
 You may download it [here](https://developer.microsoft.com/en-us/microsoft-edge/webview2/?form=MA13LH) and install it on your system.<br><br>
