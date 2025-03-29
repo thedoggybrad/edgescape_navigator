@@ -17,8 +17,6 @@ winget install -e --id TheDoggyBradSoftwareLabs.EdgescapeNavigator
 ````
 And follow the on-screen instructions.
 
-
-
 ## Minimum System Requirements
 •Windows 7 and above with 64-bit processor (Windows 10 and above is recommended)
 <br>
@@ -44,6 +42,14 @@ Chocolatey Package: [https://community.chocolatey.org/packages/edgescapenavigato
 <br><br>
 Alternate Installer (NOT RECOMMENDED TO NON-SAVY USERS): [https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/Alternate.Installer.zip](https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/Alternate.Installer.zip)
 <br>
+
+## Install via Scoop
+You may now use Scoop to install Edgescape Navigator. Simply run the commands:
+````
+scoop bucket add edgescape_navigator https://github.com/thedoggybrad/edgescape_navigator
+scoop install edgescape_navigator
+````
+And follow the on-screen instructions.
 
 ## Older Releases
 I have hidden the older releases from the README because I do no longer recommend them.<br>
