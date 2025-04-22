@@ -8,7 +8,11 @@ While, the 1.x release series is built on Visual Studio 2015 (Visual Basic) unde
 [Download Now!](https://github.com/thedoggybrad/edgescape_navigator/releases/download/2%2C0/setup.exe)
 
 
-![1](https://github.com/user-attachments/assets/ff353d18-d579-4119-a002-e2b9ee36c809)
+![1](https://github.com/user-attachments/assets/c879c6ff-3c96-44ff-aaed-fa8af45ae57a)
+![2](https://github.com/user-attachments/assets/327ac569-2bd7-4d52-9092-2355cb3dd5e3)
+![3](https://github.com/user-attachments/assets/b0aa81a6-f08a-4a38-b026-a4061ecfba83)
+
+
 
 ## Easier Installation Method
 The software is now available on Winget for installation. Simply run the command:
